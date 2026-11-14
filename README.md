@@ -2,21 +2,17 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-Latest-000000?style=for-the-badge&logo=shadcnui)
 
-> **Una red social moderna para descubrir y compartir las mejores ofertas de supermercados en tiempo real.**
-
-OfertasRD transforma la experiencia de buscar descuentos en una experiencia social, visual y adictiva. Diseñada con un enfoque "Mobile First" y una estética Premium Dark Mode.
-
-![App Screenshot](https://raw.githubusercontent.com/placeholder-image.png)
+Prototipo web de una comunidad para descubrir y compartir ofertas de supermercados en República Dominicana. La versión actual demuestra el flujo de publicación y las interacciones de la interfaz. La persistencia de datos y la autenticación están en la hoja de ruta.
 
 ## ✨ Características Principales
 
 - **📱 Diseño Mobile-First & Responsive**: Interfaz optimizada para cualquier dispositivo, con navegación inferior intuitiva en móviles.
 - **🎨 UI Premium Dark Mode**: Estética sofisticada utilizando una paleta de colores `Zinc-900` y `Slate-950` con acentos `Emerald-500` para denotar ahorro.
 - **💎 Glassmorphism UI**: Tarjetas de ofertas con efectos de cristal esmerilado modernos y elegantes.
-- **⚡ Interacciones en Tiempo Real**:
+- **⚡ Interacciones en la interfaz**:
   - Sistema de **Likes** con animaciones fluidas.
   - Comentarios desplegables para discutir las ofertas.
 - **🚀 Subida de Contenido Simplificada**: Modal con soporte **Drag & Drop** y previsualización instantánea para compartir ofertas en segundos.
@@ -40,8 +36,8 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/ofertas-rd.git
-   cd ofertas-rd
+   git clone https://github.com/C4ndido/ofertas-RD.git
+   cd ofertas-RD
    ```
 
 2. **Instalar dependencias**
